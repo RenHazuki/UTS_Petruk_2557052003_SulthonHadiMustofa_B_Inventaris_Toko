@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data_barang.txt
+laporan_inventaris.txt
